@@ -1,6 +1,6 @@
 ### 👋 Olá, Mundo! Eu sou a Maria!
 
-Meu nome é Maria Eduarda, sou Desenvolvedora FullStack JR. Sou apaixonada por tecnologia e estou constantemente aprendendo e explorando novas áreas, atualmente estou trabalhando como estágiaria.
+Meu nome é Maria Eduarda, sou Desenvolvedora FullStack JR. Sou apaixonada por tecnologia e estou constantemente aprendendo e explorando novas áreas.
 
 <br />
 
