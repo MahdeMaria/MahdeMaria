@@ -12,7 +12,7 @@
  
 ### Main skills:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,nodejs,nextjs,nuxtjs,MySQL,Docker,html,css,figma," alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,nodejs,nextjs,nuxtjs,mongodb,docker,nestjs,selenium,figma,git," alt="Tech Stack" />
 </div>
  
 ### Tools:
