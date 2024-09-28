@@ -1,25 +1,48 @@
-### 👋 Olá, Mundo! Eu sou a Maria!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80ad87&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=80ad87&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Maria+Gurgel;I'm+27+years+old;I+am+from+Brasilia,+DF;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Meu nome é Maria Eduarda, sou Desenvolvedora FullStack JR. Sou apaixonada por tecnologia e estou constantemente aprendendo e explorando novas áreas.
-
-<br />
-
-###  💡 Conhecimentos e Tecnologias
-
-<div>
-  <img src="./images/react.png" width="25" title="React"/> &nbsp;
-  <img src="./images/js.png" width="25" title="JavaScript"/> &nbsp;
-  <img src="./images/html.png" width="25" title="HTML5"/> &nbsp;
-  <img src="./images/css.png" width="25" title="CSS3"/> &nbsp;
-  <img src="./images/git.png" width="25" title="Git"/> &nbsp;
-  <img src="./images/github.png" width="25" title="Github"/> &nbsp;
-  <img src="./images/node.png" width="100" title="Node JS"/> &nbsp;
-  <img src="./images/typescript.png" width="25" title="TypeScript"/> &nbsp;
-  <img src="./images/mongo.png" width="15" title="MongoDB"/> &nbsp;
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Maria25&show_icons=true&count_private=true&hide_border=true&title_color=80ad87&icon_color=80ad87&text_color=fff&bg_color=0d1117" alt="Maria Gurgel github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria25&layout=compact&hide_border=true&title_color=80ad87&text_color=80ad87&bg_color=0d1117" />
 </div>
 
-<br />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maria25&bg_color=232a36&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 📫 Conecte-se comigo no Linkedin!
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maria-gurgel-202ba6240/)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maria25&theme=dracula&row=2&no-bg=true&column=7&margin-w=15&margin-h=15" />
+</p>
+
+ 
+### Main skills:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+ 
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=&labelColor=blue)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+
+
+
+ 
+### Other Knowledge:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+
+  
+### Studying in this moment:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+<div align="center" >
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center" ><img align="center"  src="https://profile-counter.glitch.me/{Railson25}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80ad87&height=120&section=footer"/>
